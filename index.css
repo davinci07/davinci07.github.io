@@ -7,7 +7,15 @@ h1 {
   text-align: center;
 }
 
-p1{
-  width: 120px;
+h4 {
+  width: 750px;
+  white-space: normal;
+  margin-left: 5%;
+}
+
+p{
+  width: 750px;
+  margin-left:5%;
   white-space: normal;
 }
+
