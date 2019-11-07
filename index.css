@@ -6,3 +6,8 @@ h1 {
   color: darkgreen;
   text-align: center;
 }
+
+p1{
+  width: 120px;
+  white-space: normal;
+}
